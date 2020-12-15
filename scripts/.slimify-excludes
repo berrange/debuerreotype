@@ -7,7 +7,8 @@
 /usr/share/linda/*
 /usr/share/lintian/overrides/*
 /usr/share/locale/*
-/usr/share/man/*
+/usr/share/man/man*/*
+/usr/share/man/*/man*/*
 #/usr/share/groff/* (https://github.com/debuerreotype/debuerreotype/issues/87)
 
 # https://salsa.debian.org/elmig-guest/localepurge/-/blob/176446028ca719d65993eb01e39d7040fbbcf12d/usr/share/localepurge/gen-dpkg-cfg.pl#L9-20
